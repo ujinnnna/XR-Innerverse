@@ -1,9 +1,10 @@
-# 🌌 Innerverse
+# <img src="https://github.com/user-attachments/assets/34f114bb-c04a-424a-8ccf-de89b5b6dcc6" width="50" alt="лунамояGIF"> Innerverse
 > **시간성과 감정을 주제로 한 XR 명상 프로토타입**
+
 
 <br/>
 
-##  Project Info
+## Project Info
 * **Development Period:** 2025.06.24 ~ 2025.07.01 (1 Week)
 * **Team Composition:** **1인 개발**
 * **Role:** 기획, 시스템 설계, 콘텐츠 구현, 최적화 전담
@@ -11,14 +12,21 @@
 
 <br/>
 
-##  Overview
+## Overview
 **Innerverse**는 시간의 흐름과 감정의 변화를 주제로 한 **XR 기반 명상 프로토타입**입니다.
 
 단 1주일의 개발 기간 동안, XR SDK의 핵심 기능을 활용하여 현실 공간(MR)에서 가상의 황혼(VR)으로 이어지는 연출을 구현하는 데 집중했습니다.
 
 <br/>
 
-##  Key Features & Sequence
+## 🎥 Demo Video
+이미지를 클릭하면 유튜브 영상으로 이동합니다.
+
+[![Innerverse Demo](https://img.youtube.com/vi/j6A2rMOCzRQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=j6A2rMOCzRQ)
+
+<br/>
+
+## Key Features & Sequence
 
 ### 1. MR Environment & Hand Interaction
 * **Gesture-Based Spawn**: 패스스루(Passthrough) 환경에서 **왼손바닥**을 펼치는 제스처를 인식하여 'Innerverse' 구체를 소환합니다.
@@ -32,7 +40,7 @@
 
 <br/>
 
-##  Tech Stack
+## Tech Stack
 
 | Category | Details |
 | :--- | :--- |
@@ -44,7 +52,7 @@
 
 <br/>
 
-##  Optimization Strategy
+## Optimization Strategy
 모바일 XR 환경(Standalone)에서 **72fps 방어**와 발열 최소화를 위해 다각도의 최적화를 수행했습니다.
 
 ### 1. Async Logic (비동기 시스템)
@@ -63,7 +71,7 @@
 
 <br/>
 
-##  Resources
+## Resources
 * 본 프로젝트는 **Unity Asset Store**의 무료 라이선스 에셋을 활용하여 제작되었습니다.
 
 ---
