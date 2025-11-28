@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🎥 Demo Video
+##  Demo Video
 이미지를 클릭하면 유튜브 영상으로 이동합니다.
 
 [![Innerverse Demo](https://img.youtube.com/vi/j6A2rMOCzRQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=j6A2rMOCzRQ)
